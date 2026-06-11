@@ -1,0 +1,6 @@
+{
+  "name": "Todo List",
+  "description": "An aesthetic, beautifully color-paletted mobile todo list app tailored for focused productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
